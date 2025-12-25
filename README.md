@@ -4,6 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/shahm-1/ActiveDirectoryLab)
+  - [Entra ID Home Lab](https://github.com/shahm-1/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
 
