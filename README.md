@@ -15,7 +15,3 @@
   - [comptiA Security+]
   - [Microsoft 365 Fundamentals]
   - [Microsoft Azure Fundamentals]
-
-- 🔭 I’m currently working on ... Various Labs
-- 🌱 I’m currently learning ... Linux and Bash
-- 📫 How to reach me: ... 
