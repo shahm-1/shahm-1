@@ -14,11 +14,10 @@
 
 <h2>🧰 Tools:</h2>
 
-### Cloud & DevSecOps
+### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zero_Trust-263238?&style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Automated_Compliance-6A1B9A?&style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
 ### Governance & Compliance
