@@ -12,6 +12,9 @@
 - **[Vulnerability Management Program Implementation](https://github.com/shahm-1/vulnerability-management-program)**
 - **[Windows 11 DISA STIG Compliance Lab (Tenable)](https://github.com/shahm-1/Windows-11-DISA-STIG-Compliance-Scan-Lab-Tenable-)**
 
+## 🕵️ Threat Hunting & Security Operations
+- **[Threat Hunting Incident: Internet Exposed VM - Brute Force Detection](https://github.com/shahm-1/Threat-Hunt-Scenario1-Device-Exposed-To-Internet)**
+
 <h2>🧰 Tools:</h2>
 
 ### Cloud
