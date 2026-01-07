@@ -16,6 +16,7 @@
 - **[Threat Hunting Incident: Sudden Network Slowdown](https://github.com/shahm-1/Threat-Hunting-Sudden-Network-Slowdown)**
 - **[Threat Hunting Incident: Suspected Data Exfiltration](https://github.com/shahm-1/Suspected-Data-Exfiltration)**
 - **[Threat Hunting Incident: New Zero Day Ransomware](https://github.com/shahm-1/New-Zero-Day-Ransomware)**
+- **[Incident Response: Brute-Force Attack Detection & Investigation (NIST 800-61)](https://github.com/shahm-1/Incident-Response-Virtual-Machine-Brute-Force-Detection)**
 
 <h2>🧰 Tools:</h2>
 
