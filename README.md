@@ -16,6 +16,7 @@
 - **[Threat Hunting Incident: Internet Exposed VM - Brute Force Detection](https://github.com/shahm-1/Threat-Hunt-Scenario1-Device-Exposed-To-Internet)**
 - **[Threat Hunting Incident: Sudden Network Slowdown](https://github.com/shahm-1/Threat-Hunting-Sudden-Network-Slowdown)**
 - **[Threat Hunting Incident: Suspected Data Exfiltration](https://github.com/shahm-1/Suspected-Data-Exfiltration)**
+- **[Threat Hunting Incident: New Zero Day Ransomware](https://github.com/shahm-1/New-Zero-Day-Ransomware)**
 
 <h2>🧰 Tools:</h2>
 
