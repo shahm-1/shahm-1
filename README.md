@@ -25,17 +25,6 @@
     <img src="https://img.shields.io/badge/-Zero_Trust-263238?&style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-### Governance & Compliance
-<div>
-    <img src="https://img.shields.io/badge/-NIST-1565C0?&style=for-the-badge&logo=nist&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISO_27001-455A64?&style=for-the-badge&logo=iso&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SOC_2-283593?&style=for-the-badge&logo=datadog&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PCI_DSS-00838F?&style=for-the-badge&logo=visa&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HIPAA-AD1457?&style=for-the-badge&logo=heartbeat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHIPA-1E88E5?&style=for-the-badge&logo=shield&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PIPEDA-5E35B1?&style=for-the-badge&logo=ledger&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
