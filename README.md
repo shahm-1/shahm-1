@@ -12,6 +12,7 @@
 - **[Windows 11 DISA STIG Compliance Lab (Tenable)](https://github.com/shahm-1/Windows-11-DISA-STIG-Compliance-Scan-Lab-Tenable-)**
 
 ## 🕵️ Threat Hunting & Security Operations
+- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/shahm-1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Incident: Internet Exposed VM - Brute Force Detection](https://github.com/shahm-1/Threat-Hunt-Scenario1-Device-Exposed-To-Internet)**
 - **[Threat Hunting Incident: Sudden Network Slowdown](https://github.com/shahm-1/Threat-Hunting-Sudden-Network-Slowdown)**
 - **[Threat Hunting Incident: Suspected Data Exfiltration](https://github.com/shahm-1/Suspected-Data-Exfiltration)**
