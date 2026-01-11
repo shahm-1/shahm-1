@@ -10,6 +10,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/shahm-1/vulnerability-management-program)**
 - **[Windows 11 DISA STIG Compliance Lab (Tenable)](https://github.com/shahm-1/Windows-11-DISA-STIG-Compliance-Scan-Lab-Tenable-)**
+- **[10+ STIG Implemenations Remediations (PowerShell)](https://github.com/shahm-1/Windows-11-STIG-Implementations-Remediations-PowerShell)**
 
 ## 🕵️ Threat Hunting & Security Operations
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/shahm-1/threat-hunting-scenario-tor)**
